@@ -32,6 +32,8 @@ with open(fname,'r') as f:
 print("Number of words: ",num_words)
 ```
 ### OUTPUT:
-![image](https://github.com/Gokkul-M/command-line-arguments-to-count-word/assets/144870543/783e2266-caea-4001-9de3-97b935aa610a)
+![image](https://github.com/Gokkul-M/command-line-arguments-to-count-word/assets/144870543/4bf83ef5-2350-467d-a04c-fe627d3a7351)
+![image](https://github.com/Gokkul-M/command-line-arguments-to-count-word/assets/144870543/0f138124-5d69-499e-8b45-fd2dc8f2ad80)
+
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
